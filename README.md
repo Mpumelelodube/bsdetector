@@ -1,12 +1,11 @@
-# bsdetector
+# Bsdetector(Final year project)
 
-Final year project.
 
-## Getting Started
 
+## Introduction
 This is an AI based fake news detection system  which leverages stance detection to curb misinformation.
 
-A few resources to get you started if this is your first Flutter project:
 
 
-# bsdetector
+
+
